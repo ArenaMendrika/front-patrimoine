@@ -1,0 +1,40 @@
+.table-bordered {
+    border: 2px solid #d8a62f;
+    border-radius: 0.375rem; 
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); 
+  }
+  
+  .table-bordered th,
+  .table-bordered td,
+  .table-bordered tr {
+    border: 1px solid #d8a62f; 
+  }
+
+
+.custom-date-picker {
+  width: 150px;
+  height: auto; 
+}
+
+.react-datepicker__day {
+  display: inline-block;
+  width: 2.5rem;
+  height: 2.5rem;
+  line-height: 2.5rem;
+  text-align: center;
+}
+
+.react-datepicker__day-names {
+  display: flex;
+  justify-content: space-between;
+}
+
+.react-datepicker__week {
+  display: flex;
+  justify-content: space-between;
+}
+
+
+
+  
+  
